@@ -14,3 +14,5 @@
   使用时需要在index中输入username和password
   
   手动识别验证码
+  
+  介绍博客：https://www.cnblogs.com/Cl0ud/p/12355851.html
