@@ -16,3 +16,9 @@
   手动识别验证码
   
   介绍博客：https://www.cnblogs.com/Cl0ud/p/12355851.html
+
+3，buxiuse 不羞涩网站小姐姐图片爬取下载
+
+https://www.buxiuse.com/
+
+  
