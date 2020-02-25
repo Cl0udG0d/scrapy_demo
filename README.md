@@ -3,6 +3,9 @@
 
 1，微信小程序社区教程爬取
   
+  
+  http://www.wxapp-union.com/
+  
   使用方法：
     
   在scrapy_demo-master\wxapp文件夹下开启命令行
