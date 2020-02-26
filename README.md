@@ -24,4 +24,8 @@
 
 https://www.buxiuse.com/
 
+4，useragent，自定义中间件Middleware，同时使用fake-agent随机更改伪造请求头
+
+一定程度上防止网站反爬
+
   
