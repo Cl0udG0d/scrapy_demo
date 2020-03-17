@@ -31,3 +31,5 @@ https://www.buxiuse.com/
 5，爬取笔趣阁全站的书籍名称和简介，同时保存到mysql数据库中
 
 https://www.biquge.com.cn/
+
+6，必应bing搜索链接结果爬取保存在本地
